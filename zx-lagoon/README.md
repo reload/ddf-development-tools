@@ -3,6 +3,11 @@
 These zx commands are wrappers around lagoon commands and are meant to be quick
 ways of doing repeated commands.
 
+Example:
+
+<img width="385" height="73" alt="image" src="https://github.com/user-attachments/assets/6bb577d3-1f05-4d7a-838b-0fdd97c7db0d" />
+
+
 ## Prerequisites
 
 - [Lagoon CLI](https://uselagoon.github.io/lagoon-cli/)
